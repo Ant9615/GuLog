@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "guvenv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
+}
